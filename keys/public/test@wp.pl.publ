@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<User>
-	<Email>test@wp.pl</Email>
-	<RSAPublicKeyBase64>
-		<Exponent>AQAB</Exponent>
-		<Modulus>AMaZNqNJuEvM+/rWOM/U0AW7D/24WmA3mEH4d8mUCS+iLy4S0SazkD+bero3xq5NDKhobfrhnbw5Ur2v5C0WOaQLedgRlkD5AzIMa4vvzy/BCXeRB6ZTv5u8Hm4phQ6NHkHzItmWahaGBsXiQCKwkcKg/PRZW1PJGEJnLYG5k04iltTghKf63sqRwkv//HwLcxcF1cVFNlQRoqdflOXbvOeYO8hvVtY8uiYd9HWsKBV+lr+8yGBmHfKTV0KFt635D6tjdgpmxhIFtS5ra+ft6MlKZUblFjGvaXntG8dgnf42/4d03APYiRBjoKN9zii5v8srjohHIMg0k8v4a3kqrvE=</Modulus>
-	</RSAPublicKeyBase64>
-</User>

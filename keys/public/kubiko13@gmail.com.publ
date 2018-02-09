@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<User>
-	<Email>kubiko13@gmail.com</Email>
-	<RSAPublicKeyBase64>
-		<Exponent>AQAB</Exponent>
-		<Modulus>AIN/jJvwKe4g6qu2U3nIszaWCNJRbkpvzlOc9lWunAYVppkPq6TQTjqh8QWQrpEXh0i04DCuwnLkDVWJQMF+lve4r13/yMDk9g14r1m86Z/ZWGSk4OPP9VLXL29uugkhm0waqY0gR6VMgF8mFv92KDTETITOeg0IGaBIN0ENk+sZoObayx+EitWRustFEMdsUZ/r2ICMzu0+Pt3vkAx0DI4eVVPLSVtUd9/Dz8T65OvU3LiJZEWcb6obSGo8y7Jkwjampy7GoAINU0PqxBbiLEW5oOajr8Rel2qaMYljrtU4bnEJOZkVDfrBdSIVd9HEv/NzjmF0t2GDRUwPJ/020Sc=</Modulus>
-	</RSAPublicKeyBase64>
-</User>

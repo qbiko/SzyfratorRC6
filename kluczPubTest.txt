@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<User>
-	<RSAPublicKeyBase64>
-		<Exponent>AQAB</Exponent>
-		<Modulus>AM7sMzgLTQyIppqnol9/11QdwVi35yVT3/zYW9FdM7GyFJFZsMqgSpSsNhCr/ftUNwkvitlrqs9+yCOBe4/CHfq2u2Uim3nK8SIc2Y86bwAH4c1UNjKJsMO93TTiM0D5MMYNH94TUohJbSyqn9MJiOD3WOKQwcAcmiwK6NTu+N9S5yxfGFFooJasWWgkWaa10zZAPLYU2fJH5rhslgImrRNEOK8/4q7/6Kt9jnPBAowfLhjyt5rH9Su6vKKrUYMAhedDLssX3be5TsN5ZQmr4lEqesvWHrxHN7cLNOHyzNBYbUvodko80m5/sk9Qlw4GZjAgfaqFhsGK6zmWxi75VjM=</Modulus>
-	</RSAPublicKeyBase64>
-</User>
