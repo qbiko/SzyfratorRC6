@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<User>
+	<Email>newUserTestName@o2.pl</Email>
+	<RSAPublicKeyBase64>
+		<Exponent>AQAB</Exponent>
+		<Modulus>AIkovUq+Y9zWjqs959tCKrGZT/Eonchf2Sys4BQRMHsM8pwKnCXqhwefT60fZd5TbZC6YW5C/MFy/N1xvIGnErr1g+6qI5s5Y1IqVJvQlHC7nBWqUDSsy/6v+tPU4uwr+L6njE2IuPIMds80H6yde/14iaYE3vg9gRkaAFxJUTJGNviC38H04NTKUYI4UlviMz5BGvnBzJC33FewJA1Jj/FSX5Z8IIuqQbfWkrEqNp/DymP8MPlfFganLgZCb90b4MCLilnlFS5hdVWcuw1oM89lnOTdM9UNhqtc/KU6kK473LMy5k5E+oaxre5j9m3RhcsuuneUUcDEDmuE95iUmJU=</Modulus>
+	</RSAPublicKeyBase64>
+</User>

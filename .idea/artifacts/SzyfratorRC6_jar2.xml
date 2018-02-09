@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="SzyfratorRC6:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/SzyfratorRC6_jar2</output-path>
+    <root id="root">
+      <element id="archive" name="SzyfratorRC6.jar">
+        <element id="module-output" name="SzyfratorRC6" />
+      </element>
+      <element id="library" level="project" name="bcprov-jdk15on-156 (2)" />
+      <element id="file-copy" path="$PROJECT_DIR$/lib/junit-jupiter-api-5.0.0-M3.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/lib/opentest4j-1.0.0-M1.jar" />
+    </root>
+  </artifact>
+</component>

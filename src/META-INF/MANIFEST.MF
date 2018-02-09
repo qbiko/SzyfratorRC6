@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: bcprov-jdk15on-156.jar junit-jupiter-api-5.0.0-M3.jar open
+ test4j-1.0.0-M1.jar
+Main-Class: com.company.MainWindow
+
